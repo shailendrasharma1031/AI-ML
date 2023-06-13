@@ -5,14 +5,16 @@ about the presence of melanoma has the potential to reduce a lot of manual effor
 
 The data set contains the following diseases:
 
-Actinic keratosis
-Basal cell carcinoma
-Dermatofibroma
-Melanoma
-Nevus
-Pigmented benign keratosis
-Seborrheic keratosis
-Squamous cell carcinoma
-Vascular lesion
+Actinic keratosis,
+Basal cell carcinoma,
+Dermatofibroma,
+Melanoma,
+Nevus,
+Pigmented benign keratosis,
+Seborrheic keratosis,
+Squamous cell carcinoma,
+Vascular lesion_
+
+
 
 
