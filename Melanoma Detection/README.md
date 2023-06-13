@@ -45,7 +45,7 @@ The data set contains the following diseases:
 
 
 ## Conclusions
-- The problem of overfitting and underfitting was solved and the model was well trained for predictions. Data augmentation, outliers, and class equalization were found to be useful in improving model performance in this case.
+- The problem of overfitting and underfitting was solved and the model was well trained for predictions. The validation came out to be 83%.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
